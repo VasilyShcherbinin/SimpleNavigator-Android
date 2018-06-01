@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">vs00162_assignment2</string>
+    <string name="action_settings">Settings</string>
+    <string name="apiKey">AIzaSyA_coyCsWHgKVZsAypeU2tSJvck9Y_8ZdA</string>
+    <string name="mapActivity">MainMapActivity</string>
+    <string name="startLocation">Please enter starting location!</string>
+    <string name="finalDestination">Please enter final destination!</string>
+    <string name="startAddressHint">Enter starting address...</string>
+    <string name="destAddressHint">Enter destination address...</string>
+    <string name="calcRoute">Calculate Route</string>
+    <string name="placePicker">Find Address</string>
+    <string name="pickerInternetHint">To find an address you need to be connected to the Internet.</string>
+    <string name="coordinatesHint">Coordinates must be input without brackets.</string>
+    <string name="about_title">About This GPS Navigation Coursework</string>
+    <string name="about_text">This application was made by <i><b><u>Vasily Shcherbinin</u></b></i> (vs00162).</string>
+    <string name="about_text2">For a complete list of feature descriptions and explanations, please visit the README.txt file.</string>
+    <string name="appTitle">Find.Me</string>
+    <string name="mapButtonText">Open My Map</string>
+    <string name="aboutButtonText">About</string>
+    <string name="deleteAllMarkers">Delete All Markers On Map</string>
+    <string name="roadView">Road View</string>
+    <string name="satelliteView">Satellite View</string>
+    <string name="hybridView">Hybrid View</string>
+    <string name="terrainView">Terrain View</string>
+    <string name="toggleTraffic">Toggle Traffic</string>
+
+</resources>
