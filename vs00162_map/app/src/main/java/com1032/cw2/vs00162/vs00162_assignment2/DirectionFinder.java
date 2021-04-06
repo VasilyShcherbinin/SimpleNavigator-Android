@@ -31,7 +31,7 @@ public class DirectionFinder {
      * Defining local variables.
      */
     private static final String DIRECTION_URL_API = "https://maps.googleapis.com/maps/api/directions/json?";
-    private static final String GOOGLE_API_KEY = "AIzaSyA_coyCsWHgKVZsAypeU2tSJvck9Y_8ZdA";
+    private static final String GOOGLE_API_KEY = "---";
     private DirectionFinderListener dirfListener;
     private String origin;
     private String destination;
